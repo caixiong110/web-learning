@@ -13,5 +13,7 @@
 
 [express](http://expressjs.com/zh-cn/)
 
+[mpvue](http://mpvue.com/)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
