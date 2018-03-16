@@ -15,5 +15,7 @@
 
 [mpvue](http://mpvue.com/)
 
+[React.js小书](http://huziketang.com/books/react/)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
