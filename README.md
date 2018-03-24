@@ -28,5 +28,7 @@
 [bootcdn](http://www.bootcdn.cn/)
 
 [有赞ui库](https://www.youzanyun.com/zanui)
+
+[快应用](https://www.quickapp.cn/)
 # node第三方库
 [yargs](http://yargs.js.org/)
