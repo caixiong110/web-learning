@@ -43,3 +43,7 @@
 
 # node第三方库
 [yargs](http://yargs.js.org/)
+
+# 前端必读
+
+[浏览器的工作原理](https://www.cnblogs.com/rainy-shurun/p/5603686.html)
