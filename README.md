@@ -9,6 +9,8 @@
 
 [Flutter](https://flutter.io/)
 
+[Flutter中文网](https://flutterchina.club/)
+
 [Babel](https://babeljs.cn/)
 
 [express](http://expressjs.com/zh-cn/)
