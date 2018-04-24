@@ -41,6 +41,8 @@
 
 [Lavas](https://lavas.baidu.com/)
 
+[Vuetify：vue的Material Design库](https://vuetifyjs.com/zh-Hans/)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
 
