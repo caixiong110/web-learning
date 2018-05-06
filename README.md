@@ -43,6 +43,8 @@
 
 [Vuetify：vue的Material Design库](https://vuetifyjs.com/zh-Hans/)
 
+[深入浅出Webpack](http://webpack.wuhaolin.cn/)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
 
