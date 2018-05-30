@@ -45,6 +45,9 @@
 
 [深入浅出Webpack](http://webpack.wuhaolin.cn/)
 
+
+[docker从入门到实践](https://legacy.gitbook.com/book/yeasy/docker_practice/details)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
 
