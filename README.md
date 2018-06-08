@@ -48,6 +48,8 @@
 
 [docker从入门到实践](https://legacy.gitbook.com/book/yeasy/docker_practice/details)
 
+[Vue.js技术揭秘](https://ustbhuangyi.github.io/vue-analysis/doc/)
+
 # node第三方库
 [yargs](http://yargs.js.org/)
 
