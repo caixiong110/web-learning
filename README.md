@@ -51,6 +51,12 @@
 [Vue.js技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 [支付宝移动web解决方案](http://am-team.github.io/amg/dev-exp-doc.html)
+
+[腾讯IMWeb团队社区](http://imweb.io/)
+
+[极限前端](http://jixianqianduan.com/)
+
+[张鑫旭的个人主页](https://www.zhangxinxu.com/)
 # node第三方库
 [yargs](http://yargs.js.org/)
 
