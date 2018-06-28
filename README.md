@@ -48,7 +48,7 @@
 
 [docker从入门到实践](https://legacy.gitbook.com/book/yeasy/docker_practice/details)
 
-[Vue.js技术揭秘](https://ustbhuangyi.github.io/vue-analysis/doc/)
+[Vue.js技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
 
 [支付宝移动web解决方案](http://am-team.github.io/amg/dev-exp-doc.html)
 # node第三方库
